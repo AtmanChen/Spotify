@@ -1,0 +1,13 @@
+//
+//  Staging.xcconfig
+//  Spotify
+//
+//  Created by Anderson on 28/03/2024.
+//  Copyright © 2024 globe. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+XCC_BUNDLE_NAME = Spotify-Staging
+XCC_CONFIG_PATH = Staging/BuildConfiguration.plist
